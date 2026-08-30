@@ -8,7 +8,7 @@ A slick, interactive 3D card shuffling stack built with **SwiftUI**. Swiping dow
 
 <p align="center">
 
-  <img src="[https://github.com/user-attachments/assets/YOUR-GIF-LINK-HERE.gif](https://github.com/user-attachments/assets/b78a0d6a-7796-42e0-a0e4-54b4815ddf13)" alt="Card Shuffle Demo" width="320"/>
+  <img width="400" height="736" alt="Image" src="https://github.com/user-attachments/assets/b78a0d6a-7796-42e0-a0e4-54b4815ddf13" />
 </p>
 
 ---
