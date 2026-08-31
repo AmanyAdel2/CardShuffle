@@ -30,8 +30,4 @@ A slick, interactive 3D card shuffling stack built with **SwiftUI**. Swiping dow
 
 ---
 
-## 🚀 Installation & Setup
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YOUR-USERNAME/CardShuffle.git](https://github.com/YOUR-USERNAME/CardShuffle.git)
